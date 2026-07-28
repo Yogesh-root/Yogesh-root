@@ -1,171 +1,209 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yogesh%20Kumar%20S&fontSize=70&animation=twinkling" alt="Yogesh Kumar S profile header" />
+</p>
 
-# Yogesh Kumar S
-### Software Developer · AI/ML Engineer
+<h3 align="center">
+    <samp>
+        &gt; Hey there!, I am
+        <b><a target="_blank" href="https://linkedin.com/in/yogesh-kumar-s">Yogesh Kumar S</a></b>
+    </samp>
+</h3>
 
-*Building models that ship, not just models that train.*
+<br>
 
-<a href="https://linkedin.com/in/yogesh-kumar-s"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
-<a href="mailto:mail.syogeshk@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
-<a href="tel:+919611757374"><img src="https://img.shields.io/badge/PHONE-0d1117?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="Phone"/></a>
-<a href="https://github.com/Yogesh-root"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
+<p align="center">
+<samp>
+「 AI/ML Engineer turning research into production-ready computer vision systems 」
+</samp>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yogesh-root&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+AI-ML+Engineer;M.Tech+in+AI+%26+ML+%40+VIT+Vellore;Computer+Vision+%7C+Deep+Learning;Building+Models+That+Actually+Ship"
+    alt="Typing SVG"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
+</p>
 
-<br/>
+# 🛠 Technologies, Projects & Research
 
-## 01 — whoami
-
-```yaml
-name:          Yogesh Kumar S
-role:          Software Developer / AI-ML Engineer
-based_in:      Bengaluru, India
-education:     M.Tech, Computer Science (AI/ML) @ VIT Vellore — Expected 2026
-               B.Tech, Computer Science (AI/ML) @ Christ University — 2024
-focus:         Computer Vision · Deep Learning · Model Deployment
-status:        Immediate availability, open to relocation
-currently:     Shipping research into production-ready systems,
-               one Grad-CAM heatmap at a time.
-```
-
-<br/>
-
-## 02 — tech stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=ffffff)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ffffff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=ffffff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=ffffff)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=ffffff)
-
-**Computer Vision**
-
-![YOLOv5](https://img.shields.io/badge/YOLOv5-0d1117?style=flat-square)
-![CNN](https://img.shields.io/badge/CNNs-0d1117?style=flat-square)
-![Grad--CAM](https://img.shields.io/badge/Grad--CAM-0d1117?style=flat-square)
-![Face Recognition](https://img.shields.io/badge/Face_Recognition-0d1117?style=flat-square)
-
-**Tools & Platforms**
-
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=ffffff)
-![Azure](https://img.shields.io/badge/Azure_AI-0d1117?style=flat-square&logo=microsoftazure&logoColor=ffffff)
-
-</div>
-
-<br/>
-
-## 03 — featured work
-
-<table>
+<table border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
 
-### 🩻 Automated Stone Detection
-**YOLOv5 + CNN Hybrid · Published Research**
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
 
-Real-time kidney stone detection in CT/MRI scans. Hybrid CNN–YOLOv5 pipeline for high-accuracy localization, with Grad-CAM baked in for model interpretability. Peer-reviewed and published in the Grenze International Journal.
+<h3>🛠 Technologies</h3>
+<br>
 
-`Python` `PyTorch` `OpenCV` `Deep Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 🪖 Smart Wearables Detection System
-**Real-Time Compliance Monitoring**
-
-Detection and recognition of face masks, helmets, and ID cards from live video streams — built during COVID-19 to automate safety and compliance enforcement.
-
-`Python` `YOLOv5` `OpenCV` `PyTorch`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 GATTA — Test-Time Adaptation Research
-**M.Tech Dissertation**
-
-Gradient-Aware Test-Time Adaptation: uses gradient magnitude as a reliability signal to selectively update BatchNorm parameters at inference. Outperformed Tent on 12/15 CIFAR-10-C corruption types with under 3% compute overhead.
-
-`Python` `PyTorch` `Research`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎭 AI Face Recognition Phases
-**Explainer Website**
-
-Built to break down the face-detection pipeline step by step — how systems actually analyze and recognize facial features, made explorable for a non-technical audience.
-
-`Python` `HTML` `CSS`
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32"/></td>
+  </tr>
+</table>
 
 </td>
+
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+<samp>
+
+**🩻 Stone Detection**<br>
+YOLOv5 + CNN hybrid for kidney stone detection in CT/MRI — published in Grenze Intl. Journal
+
+**🪖 Smart Wearables**<br>
+Real-time mask, helmet & ID compliance monitoring from video streams
+
+**🧠 GATTA**<br>
+Gradient-aware test-time adaptation — beat Tent on 12/15 CIFAR-10-C corruptions
+
+**🎭 Face Recognition Explainer**<br>
+Website walking through the face-detection pipeline
+
+</samp>
+
+</td>
+
+<!-- RESEARCH -->
+<td width="260" valign="top" align="center">
+
+<h3>📄 Research & Credentials</h3>
+<br>
+
+<samp>
+
+**Published Paper**<br>
+Grenze Intl. Journal of Engineering & Technology, Jun 2025
+
+**Certifications**<br>
+Microsoft Azure AI Fundamentals<br>
+Goldman Sachs Cybersecurity Services<br>
+CIS Congress on Intelligent Systems
+
+</samp>
+
+</td>
+
 </tr>
 </table>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
+</p>
 
-## 04 — experience
+### 📊 Vital Statistics
 
-```
-2023        PIXL VFX — AI Research Intern (Pune)
-May–Jul     → Authored a whitepaper on automating VFX production —
-              onboarding, payroll, project management, and delivery.
-              Shipped a working prototype from the research.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-root&theme=radical" alt="Streak" />
+</p>
 
-2022        Languify · Coincent — AI Dev Intern (Bengaluru)
-Jun–Aug     → Built a website studying the face-detection pipeline,
-              translating CV research into an interactive product.
-```
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yogesh-root&theme=radical" alt="GitHub profile contribution summary" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yogesh-root&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
 
-## 05 — publications & credentials
+<p align="center">
+  <img src="https://img.shields.io/badge/Hours%20Gamed-660%2B-blue?style=flat" alt="Gaming hours" />
+</p>
 
-- 📄 **"Automated Stone Detection using CNN and YOLOv5 Approach"** — Grenze International Journal of Engineering & Technology, June 2025 · `DOI: 01.GIJET.11.2.228_25`
-- 🛡️ Goldman Sachs Engineering Virtual Program — Cybersecurity Services
-- ☁️ Microsoft Certified: Azure AI Fundamentals
-- 🤖 Artificial Intelligence: Concepts, Principles and Practices
-- 🧩 CIS Congress on Intelligent Systems
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
+</p>
 
-<br/>
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
 
+<!-- LEFT: EXPERIENCE -->
+<td width="33%" valign="top">
 
-</div>
+<h2>💼 Experience</h2>
 
-<br/>
+<ul>
+  <li><b>PIXL VFX</b> — AI Research Intern<br><sub>Authored & prototyped a VFX production automation whitepaper</sub></li>
+  <li><b>Languify · Coincent</b> — AI Dev Intern<br><sub>Built a website studying the face-detection pipeline</sub></li>
+</ul>
 
-## 07 — beyond the terminal
+</td>
 
-```yaml
-gamer_handle:   Zeref-Dragneel
-hours_logged:   660+
-titles:         NBA 2K25 · Cricket 24 · assorted AAA open-world
-languages:      English (Fluent) · Hindi (Fluent) ·
-                Kannada (Fluent) · Tamil (Native)
-```
+<!-- MIDDLE: OPEN TO -->
+<td width="34%" align="center" valign="middle">
 
-<br/>
+<h2>🎯 Open To</h2>
 
-<div align="center">
+<samp>
+Software Developer roles<br>
+Founder's Office / Business Strategy<br>
+Immediate availability<br>
+Open to relocation
+</samp>
 
-**Currently exploring:** Software Developer & Founder's Office roles · Open to relocation
+</td>
 
-<a href="mailto:mail.syogeshk@gmail.com"><img src="https://img.shields.io/badge/Let's_build_something-0d1117?style=for-the-badge" alt="Contact"/></a>
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
 
-</div>
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="mailto:mail.syogeshk@gmail.com">
+  <img src="https://img.shields.io/badge/email-mail.syogeshk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://linkedin.com/in/yogesh-kumar-s">
+  <img src="https://img.shields.io/badge/linkedin-yogesh--kumar--s-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+<br><br>
+
+<a href="https://github.com/Yogesh-root">
+  <img src="https://img.shields.io/badge/github-Yogesh--root-black?style=for-the-badge&logo=github" alt="GitHub profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
+</p>
+
+<p align="center">
+⚡ Turning AI research into production-ready systems
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
