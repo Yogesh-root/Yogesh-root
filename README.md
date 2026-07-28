@@ -145,16 +145,6 @@ Jun–Aug     → Built a website studying the face-detection pipeline,
 
 <br/>
 
-## 06 — github telemetry
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yogesh-root&show_icons=true&theme=transparent&hide_border=true&title_color=0d1117&text_color=0d1117&icon_color=0d1117" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-root&layout=compact&theme=transparent&hide_border=true&title_color=0d1117&text_color=0d1117" width="42%" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-root&theme=default&hide_border=true&background=00000000&stroke=0d1117&ring=0d1117&fire=0d1117&currStreakLabel=0d1117" width="70%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-root&bg_color=00000000&color=0d1117&line=0d1117&point=0d1117&area_color=0d1117&area=true&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="Contribution Graph"/>
 
 </div>
 
